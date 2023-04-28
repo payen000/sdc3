@@ -15,7 +15,7 @@
                     <div id="name"></div>
                     <div id="banner"></div>
                     <div id="banner-button">
-                        <a id="event-button0" class="btn btn-danger disabled" pointer="registro" role="button" href="#">Registro</a>
+                        <a id="event-button0" class="btn btn-danger disabled disabled-button" pointer="registro" role="button" href="#">Registro</a>
                     </div>
                 </div>
                 <div id="gradient">
@@ -253,7 +253,7 @@
                         </p>
                         <div id="regbutton" class="centered margin-bottomed" title="renglón de botón de registro">
                             <div title="botón de registro">
-                                <a id="registry-button" class="btn btn-primary disabled" pointer="registro" role="button">Registro</a>
+                                <a id="registry-button" class="btn btn-danger disabled disabled-button" pointer="registro" role="button">Registro</a>
                             </div>
                         </div>
                         <p>
